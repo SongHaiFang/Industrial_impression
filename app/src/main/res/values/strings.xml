@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Industrial_impression</string>
+
+    <dimen name="myfans_view_item_img_hw">44px</dimen>
+    <dimen name="myfans_view_item_name_width">101px</dimen>
+    <dimen name="myfans_view_item_name_height">22px</dimen>
+    <dimen name="myfans_view_item_nr_height">17px</dimen>
+    <dimen name="myfans_view_item_nr_width">120px</dimen>
+
+</resources>
